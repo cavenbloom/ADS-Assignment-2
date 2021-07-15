@@ -1,0 +1,4 @@
+The time taken to insert at beginning in Milliseconds 4[ms]
+The time taken to delete at beginning in Milliseconds 1[ms]
+The time taken to insert at end in Milliseconds 602[ms]
+The time taken to delete at end in Milliseconds 617[ms]
